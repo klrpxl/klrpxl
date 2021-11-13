@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klrpxl
 - 👀 I’m interested in ...coding,crypto, blockchain, erc20, erc721, (NFT theory), games, pixel art
 - 🌱 I’m currently learning ...Java, objective-c, xcode
-- 💞️ I’m looking to collaborate on ... crypto, coding, crypto coding, games, pixel art
+- 💞️ I’m looking to collaborate on ... crypto, coding, games, pixel art
 - 📫 How to reach me ... klrpxl@gmail.com, @klrpxl on twitter
 
 <!---
