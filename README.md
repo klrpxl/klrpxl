@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klrpxl
-- 👀 I’m interested in ...coding,crypto, blockchain, games, pixel art
+- 👀 I’m interested in ...apps, games, pixel art and random code projects that seem interesting or fun.
 - 🌱 I’m currently learning ...react, swift, Java, python, kotin
-- 💞️ I’m looking to collaborate on ... crypto, coding, games, pixel art
+- 💞️ I’m looking to collaborate on ... apps, games, pixel art and random code projects that seem interesting or fun.
 - 📫 How to reach me ... klrpxl@gmail.com, @klrpxl on twitter
 
 <!---
